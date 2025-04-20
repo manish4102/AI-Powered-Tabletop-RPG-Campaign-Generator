@@ -70,9 +70,5 @@ An advanced AI system that generates complete tabletop RPG worlds using Google G
 [![Open in Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)]([https://www.kaggle.com/your-username/your-notebook](https://www.kaggle.com/code/parmar4102/manish-gen-ai-intensive-course-capstone-2025q1))
 *[Replace with your actual Kaggle notebook link]*
 
-## 📜 License
-MIT License - Free for personal and commercial use
 
----
-
-*Created as part of the Gen AI Intensive Course Capstone - Q1 2025*
+*Created as part of the Gen AI Intensive Course Capstone - March 2025*
